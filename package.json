@@ -1,5 +1,5 @@
 {
-  "name": "k-utils",
+  "name": "kwp-utils",
   "version": "1.0.0",
   "description": "my utility library",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kangweiping/k-utils.git"
+    "url": "git+https://github.com/kangweiping/kwp-utils.git"
   },
   "author": "k",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kangweiping/k-utils/issues"
+    "url": "https://github.com/kangweiping/kwp-utils/issues"
   },
-  "homepage": "https://github.com/kangweiping/k-utils#readme"
+  "homepage": "https://github.com/kangweiping/kwp-utils#readme"
 }
