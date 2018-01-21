@@ -1,19 +1,19 @@
 {
-  "name": "kwp-utils",
+  "name": "unbi-utils",
   "version": "1.0.0",
-  "description": "my utility library",
+  "description": "A utility library",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kangweiping/kwp-utils.git"
+    "url": "git+https://github.com/kangweiping/unbi-utils.git"
   },
   "author": "k",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kangweiping/kwp-utils/issues"
+    "url": "https://github.com/kangweiping/unbi-utils/issues"
   },
-  "homepage": "https://github.com/kangweiping/kwp-utils#readme"
+  "homepage": "https://github.com/kangweiping/unbi-utils#readme"
 }

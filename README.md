@@ -1,1 +1,1 @@
-# k-utils
+# A utility library
